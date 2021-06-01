@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(107, 101, 101);
+    
+}
+#section{
+    width: 400px;
+    margin-top: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #ffffff;
+}
